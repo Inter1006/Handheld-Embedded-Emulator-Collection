@@ -1,11 +1,10 @@
 <div align="center">
  
-<img alt="LOGO" src="https://github.com/Inter1006/PenPointOS_Vbox/blob/Readme_Files/logo.svg" width="300" height="100" />
- 
-# PenPointOS -Emulator-
-在 VirtualBox 上运行的 PenPoint 操作系统~<br />
+<img alt="LOGO" src="https://github.com/Inter1006/Handheld-Embedded-Emulator-Collection/blob/resources/HCA.svg" width="90" height="115" /><img alt="LOGO" src="https://github.com/Inter1006/Handheld-Embedded-Emulator-Collection/blob/resources/HCA_logo_up.svg" width="400" height="135" /><br />
+<img alt="LOGO" src="https://github.com/Inter1006/Handheld-Embedded-Emulator-Collection/blob/resources/HCA_down.svg" width="500" height="47" /><br />
 
-[![LICENSE](https://img.shields.io/badge/LICENSE-Apache2.0-green.svg?style=for-the-badge)](https://github.com/Inter1006/PenPointOS_Vbox/blob/main/LICENSE )
+[![LICENSE](https://img.shields.io/badge/LICENSE-GNU_GPL3.0-green.svg)](https://github.com/Inter1006/Handheld-Embedded-Emulator-Collection/blob/main/LICENSE)<br />
+![ver](https://img.shields.io/badge/Last_update-2024/07/23-blue.svg)
 
 </div>
 
