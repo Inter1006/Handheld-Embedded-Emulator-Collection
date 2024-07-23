@@ -1,16 +1,19 @@
 <div align="center">
  
-<img alt="LOGO" src="https://github.com/Inter1006/Handheld-Embedded-Emulator-Collection/blob/resources/HCA.svg" width="90" height="115" /><img alt="LOGO" src="https://github.com/Inter1006/Handheld-Embedded-Emulator-Collection/blob/resources/HCA_logo_up.svg" width="400" height="135" /><br />
-<img alt="LOGO" src="https://github.com/Inter1006/Handheld-Embedded-Emulator-Collection/blob/resources/HCA_down.svg" width="500" height="47" /><br />
+<img alt="LOGO" src="https://github.com/Inter1006/Handheld-Embedded-Emulator-Collection/blob/resources/logopng.png" width="505" height="94" /><br />
+<img alt="LOGO" src="https://github.com/Inter1006/Handheld-Embedded-Emulator-Collection/blob/resources/HCA_down.svg" width="600" height="51" /><br />
 
 [![LICENSE](https://img.shields.io/badge/LICENSE-GNU_GPL3.0-green.svg)](https://github.com/Inter1006/Handheld-Embedded-Emulator-Collection/blob/main/LICENSE)<br />
 ![ver](https://img.shields.io/badge/Last_update-2024/07/23-blue.svg)
 
 </div>
 
-## 📝关于这个项目
-本项目为一个仿真实例，旨在让PenPointOS在虚拟机中正常启动，并搭配其SDK及编译器，在现代平台上复现PenPoint的软件开发环境。<br />
-为了保证兼容性和令系统正常启动，我们选择了FreeDOS作为启动PenPoint的前置操作系统，并使用VirtualBox作为虚拟机平台。
+## 📝About this project
+USE THE EMULATION<br />
+ 
+To record the        & the<br />
+ 
+Of the Embedded and Handheld Technology <br />
 
 ## 📚本项目包含的内容
 
