@@ -10,4 +10,4 @@
 
 # 📝索引 - Index
 ## C
-[CE 1.00](https://github.com/Inter1006/Handheld-Embedded-Emulator-Collection/blob/library/Microsoft%20Windows%20CE/CE%201.00/Index.md)<br />
+[CE 1.00](https://github.com/Inter1006/Handheld-Embedded-Emulator-Collection/blob/main/Library/Microsoft%20Windows%20CE/CE%201.00/Index.md)<br />
