@@ -11,8 +11,10 @@
 ## 📝Index
 
 <div align="center">
-<img alt="button" src="https://github.com/Inter1006/Handheld-Embedded-Emulator-Collection/blob/resources/buttons/button-storymode.svg" width="1100" height="80" /><br />
-<img alt="button" src="https://github.com/Inter1006/Handheld-Embedded-Emulator-Collection/blob/resources/buttons/button-test.svg" width="1100" height="80" /><br />
+ 
+[<img alt="button" src="https://github.com/Inter1006/Handheld-Embedded-Emulator-Collection/blob/resources/buttons/button-storymode.svg" width="1200" height="100" /><br />](https://www.zhihu.com/column/c_1674445204387172353)
+ 
+<img alt="button" src="https://github.com/Inter1006/Handheld-Embedded-Emulator-Collection/blob/resources/buttons/button-test.svg" width="1200" height="100" /><br />
 </div>
 
 USE THE EMULATION<br />
