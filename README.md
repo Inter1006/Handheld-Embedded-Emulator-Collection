@@ -4,67 +4,51 @@
 <img alt="LOGO" src="https://github.com/Inter1006/Handheld-Embedded-Emulator-Collection/blob/resources/HCA_down.svg" width="600" height="51" /><br />
 
 [![LICENSE](https://img.shields.io/badge/LICENSE-GNU_GPL3.0-green.svg)](https://github.com/Inter1006/Handheld-Embedded-Emulator-Collection/blob/main/LICENSE)<br />
-![ver](https://img.shields.io/badge/Last_update-2024/07/23-blue.svg)
+![ver](https://img.shields.io/badge/Last_update-2024/07/23-blue.svg)<br />
 
 </div>
 
-## 📝About this project
+## 📝Index
+
+<div align="center">
+<img alt="button" src="https://github.com/Inter1006/Handheld-Embedded-Emulator-Collection/blob/resources/buttons/button-storymode.svg" width="1100" height="80" /><br />
+<img alt="button" src="https://github.com/Inter1006/Handheld-Embedded-Emulator-Collection/blob/resources/buttons/button-test.svg" width="1100" height="80" /><br />
+</div>
+
 USE THE EMULATION<br />
  
-To record the        & the<br />
+To record the <font color=Blue>Past</font>,Present & Future
  
-Of the Embedded and Handheld Technology <br />
+Of the Handheld & Embedded Computing Technology <br />
+
+## 📚专题 - Time Line
+
+To record the Past,Present and Future of the Handheld&Embedded Computing Technology.
+<div align="center">
+
+<img alt="Timeline" src="https://github.com/Inter1006/Handheld-Embedded-Emulator-Collection/blob/resources/HCATimeline.svg" width="1450" height="308" /><br />
+[<img alt="TL2" src="https://github.com/Inter1006/Handheld-Embedded-Emulator-Collection/blob/resources/Timeline2.svg" width="800" height="100" /><br />](https://github.com/Inter1006/Handheld-Embedded-Emulator-Collection/tree/resources)
+
+</div>
 
 ## 📚本项目包含的内容
 
-* FreeDOS 1.3-rc4(官网[freedos.org](https://www.freedos.org/))
-* 一个可运行的PenPoint OS 1.0a 副本
-* PenPoint OS 1.x Update3
-* PenPoint OS SDK工具&Developer Utilities(来源:[Bitsavers](http://www.bitsavers.org/bits/Go/PENPOINT_SDK/))
-* WATCOM 9.1 Compiler(编译工具,其后继者为[OpenWatcom](https://www.openwatcom.org/))
-* PenPoint程序开发示例作品(已编译好并预装在系统内，源代码见`PENPOINT\SDK\SAMPLE`
-* 一些PenPoint软件(已预装在系统内)
-
-## 📥如何安装?
-1.下载VirtualBox并安装好。<br />
- （VirtualBox官方网站:https://www.virtualbox.org/ ）<br />
-2.下载本存储库提供的 **.ova** (开放虚拟机格式)文件,该文件可以在[发行版本](https://github.com/Inter1006/PenPointOS_Vbox/releases)中找到。<br />
-3.双击下载好的.ova文件，这应该会启动VirtualBox，如果你做对了前面几步，VirtualBox应该会弹出"导入虚拟电脑"的窗口。<br />
-4.在弹出的窗口中点击 **完成(F)** 即可。稍等片刻，名为"PenPoint OS 1.0a Update3"的虚拟机将会出现在VirtualBox管理器左侧的列表中。
-## ❓如何启动PenPoint?
-1.在**VirtualBox管理器**<img alt="PICTURE" src="https://github.com/Inter1006/PenPointOS_Vbox/blob/Readme_Files/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-10%20193523.png" width="200" height="20" />左侧的列表中找到你导入的虚拟电脑(导入方法见上面)。<br />
-2.在管理器窗口右侧单击 **启动(T)**<img alt="PICTURE" src="https://github.com/Inter1006/PenPointOS_Vbox/blob/Readme_Files/START.svg" width="20" height="20" />。<br />
-3.等待虚拟电脑启动，直到其显示"Loading Completed"字样并启动到 C:\ 提示符。<br />
-4.输入 **GO** ，回车即可。
-## 🛠️进阶教程Chapter1-为PenPoint OS安装软件
-Chapter 1:安装已有软件<br />
-PenPoint OS使用带有“QINSTALL"标识文件的软盘安装应用程序。如果你连接了一张QINSTALL软盘，系统会自动识别并打开软件包管理器。<br />
-详细步骤如下(附上Dock栏参考图):![屏幕截图 2024-06-22 115831](https://github.com/Inter1006/PenPointOS_Vbox/assets/86058148/17c3ebf0-1329-4727-8936-61e50f40c265)<br />
-
-1.插入一张QINSTLL软件盘到虚拟软驱中(如果有多张软盘则插入第一张)。<br />
-2.等待系统识别软盘，如果没有自动识别则双击Connections(Dock栏从左数第三个图标)，不出意外的话系统会打开下图所示的Quick Installer窗口(这里使用GOFax安装盘做演示)。<br />
-
-怎么样？看到最右侧Install那一列的选框了吗？单击选框即可安装，安装成功后选框会打上对号表示安装成功(注意，部分依赖文件，如上图的“Install Me First"软件，安装成功后也不会打上对勾。）<br />
-
-至此，软件包的安装便结束了。如果安装软件的过程中提示”Insert Disk xxx“，按照序号换盘即可。安装完成后，你便可以关闭Quick Installer和Connections窗口，弹出软盘了。<br />
-
-## 🛠️进阶教程Chapter2-Debug Version与串口调试
-敬请期待-Coming soon....
-
-## ❗注意事项
-有时PenPoint OS会拒绝启动，对此，你可以将调试日志重定向到串行日志。<br />
-若要这样做，请编辑 `\PENPOINT\BOOT\MIL.INI`，并取消注释 `SerialDebugPort=l` 和 `#LowLevelDebug=com1` 这两行代码。<br />
-其他问题等待补充.....
+* Coming soon
 
 ## ℹ关于
-作者:
+本项目由ONEW Studio成员共同完成(以下排名不分先后):<br /><br />
+
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Inter1006"><img src="https://github.com/Inter1006/PenPointOS_Vbox/blob/Readme_Files/b_fa517952f054ca8c99a234cc1b50b50b.jpg" width="100px;" alt=""/><br /><sub><b>INTER_INIT</b></sub></a><br /></td>
+    <td align="center"><a href="https://space.bilibili.com/1756824708"><img src="https://github.com/Inter1006/PenPointOS_Vbox/blob/Readme_Files/b_fa517952f054ca8c99a234cc1b50b50b.jpg" width="150px;" alt=""/><br /><sub><b>Inter1006<br />INTER_INIT</b></sub></a><br /></td>    <td align="center"><a href="https://space.bilibili.com/484165196"><img src="https://github.com/Inter1006/Extensions/blob/main/1720663857759dcbe7c89c6455282b29bc8695211ad7924a0.jpg" width="150px;" alt=""/><br /><sub><b>351<br />351Workshop</b></sub></a><br /></td>
+    <td align="center"><a href="https://space.bilibili.com/410046866"><img src="https://github.com/Inter1006/Extensions/blob/main/1720663903084330ee6855a3795b453f2ab6ded4863c9b08a.jpg" width="150px;" alt=""/><br /><sub><b>GoldApple<br />不务正业的金苹果</b></sub></a><br /></td>
+    <td align="center"><a href="https://space.bilibili.com/648710692"><img src="https://github.com/Inter1006/Extensions/blob/main/1720663907859cac6209da2520c4e1c83c6a99fb65ae1bcb4.jpg" width="150px;" alt=""/><br /><sub><b>WinPad(御坂)<br />とある科学の手机副屏</b></sub></a><br /></td>
+    <td align="center"><a href="https://space.bilibili.com/2057331843"><img src="https://github.com/Inter1006/Extensions/blob/main/17206639278647b179c13f807cbc2bf27b899725d34fc5c79.jpg" width="150px;" alt=""/><br /><sub><b>DZY<br />DZY20070614</b></sub></a><br /></td>
+    <td align="center"><a href="https://space.bilibili.com/437201853"><img src="https://github.com/Inter1006/Extensions/blob/main/1720663947047a3c221d7c72c685e35b27b3fe6d41b6f8f93.jpg" width="150px;" alt=""/><br /><sub><b>Zesa<br />LinuxMEMZ</b></sub></a><br /></td>
   </tr>
+  
 </table>
-
-特别感谢[Kirill Leyfer](https://github.com/BOOtak),他总结了PenPointOS在现代虚拟硬件上启动的前置条件。
+<br />
 
 [作者的b站个人主页](https://space.bilibili.com/1756824708)<br />
 qq交流群:**981893945** 欢迎来玩
