@@ -8,7 +8,7 @@
 
 </div>
 
-## 📝Index
+## 📝索引 - Index
 
 <div align="center">
  
@@ -16,7 +16,7 @@
   <img alt="button" src="https://raw.githubusercontent.com/Inter1006/Handheld-Embedded-Emulator-Collection/resources/buttons/button-storymode.svg" width="1200" height="70" /><br />
  </a>
 
- <a href="https://inter1006.github.io/Handheld-Embedded-Emulator-Collection/Library/Index">
+ <a href="Library/Index">
   <img alt="button" src="https://raw.githubusercontent.com/Inter1006/Handheld-Embedded-Emulator-Collection/resources/buttons/button-test.svg" width="1200" height="70" /><br />
  </a>
  
@@ -28,7 +28,7 @@ To record the <font color=Blue>Past</font>,Present & Future
  
 Of the Handheld & Embedded Computing Technology <br />
 
-## 📚专题 - Time Line
+## 📚时间线专题 - Time Line
 
 To record the Past,Present and Future of the Handheld&Embedded Computing Technology.
 <div align="center">
@@ -40,11 +40,11 @@ To record the Past,Present and Future of the Handheld&Embedded Computing Technol
 
 </div>
 
-## 📚本项目包含的内容
+## 📚本项目包含的内容 - Including
 
 * Coming soon
 
-## ℹ关于
+## ℹ关于 -- About
 本项目由ONEW Studio成员共同维护(以下排名不分先后):<br /><br />
 
 <table>
