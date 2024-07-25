@@ -10,4 +10,4 @@
 
 # 📝索引 - Index
 ## C
-[CE 1.00](Library/Microsoft%20Windows%20CE/CE%201.00/Index)<br />
+[CE 1.00](CE%201.00/Index)<br />
