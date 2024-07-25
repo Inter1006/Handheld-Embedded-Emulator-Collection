@@ -10,5 +10,5 @@
 
 # 📝索引 - Index
 ## M
-[Microsoft Windows CE](https://inter1006.github.io/Handheld-Embedded-Emulator-Collection/Library/Microsoft%20Windows%20CE/Index)<br />
+[Microsoft Windows CE](Library/Microsoft%20Windows%20CE/Index)<br />
 
