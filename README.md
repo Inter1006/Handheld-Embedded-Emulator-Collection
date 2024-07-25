@@ -12,7 +12,7 @@
 
 <div align="center">
  
-[<img alt="button" src="https://github.com/Inter1006/Handheld-Embedded-Emulator-Collection/blob/resources/buttons/button-storymode.svg" width="1200" height="70" /><br />](https://www.zhihu.com/column/c_1674445204387172353)
+[<img alt="button" src="https://raw.githubusercontent.com/Inter1006/Handheld-Embedded-Emulator-Collection/resources/buttons/button-storymode.svg" width="1200" height="70" /><br />](https://www.zhihu.com/column/c_1674445204387172353)
  
 [<img alt="button" src="https://github.com/Inter1006/Handheld-Embedded-Emulator-Collection/blob/resources/buttons/button-test.svg" width="1200" height="70" /><br />](https://github.com/Inter1006/Handheld-Embedded-Emulator-Collection/blob/main/Library/Index.md)
 </div>
