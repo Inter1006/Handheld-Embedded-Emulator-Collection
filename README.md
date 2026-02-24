@@ -66,7 +66,7 @@ qq交流群:**981893945** 欢迎来玩
 ## 🤝友站链接
 [351workshop官网](https://www.351workshop.top/)<br />
 👆点击戳一下WNT351<br />
-[樱之谷-MC服务器](www.sakuravalley.xyz)<br />
+[樱之谷-MC服务器](https://sakuravalley-fu-wu-qi-gong-gao-g.gitbook.io/sakuravalley-ying-zhi-gu-2-yue)<br />
 👆点击戳一下Axium. 钰
 
 
